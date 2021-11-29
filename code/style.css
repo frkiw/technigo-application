@@ -1,0 +1,82 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  margin: 100px;
+  background-image: url(image/berlin.jpg);
+  background-size:cover;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+/* Example styling of a h1 element */
+h1 {
+  color: #c300ff;
+  font-size: 55px;
+  font-weight: 600;
+  text-align: center;
+}
+h2 {
+  color: #0026ff;
+  font-size:30px;
+  font-weight: 600;
+  margin: 40px;
+  text-align:justify;
+}
+
+h3 {
+  color: #00d9ff;
+  font-size:30px;
+  font-weight: 100;
+  margin: 40px;
+  text-align:justify;
+}
+
+h4 {
+  color: #ff00dd;
+  font-size:30px;
+  font-weight: 100;
+  margin: 40px;
+  text-align:justify;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+header {
+  background-color: rgba(255, 254, 234, 0.952);
+  padding: 40px;
+}
+
+.explanation {
+  background-color: rgba(255, 255, 255, 0.952);
+}
+
+.links {
+  background-color: rgba(255, 255, 255, 0.952);
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.links a{
+  color: rgb(8, 212, 117);
+  border: rgb(8, 212, 117) solid;
+  border-radius: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 20px;
+}
+
+footer {
+  background-color: #ffbdf4d5;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
